@@ -27,7 +27,7 @@ const data = [
     image : IMG3,
     title : 'Portfolio Website - A fullstack Project',
     github : 'https://github.com/akshykmr/akshykmr-portfolio' ,
-    demo : 'https://akshykmr-portfolio.netlify.app'
+    demo : 'https://akshykmr.github.io/akshykmrr-portfolio'
   },
   {
     id : 4,
