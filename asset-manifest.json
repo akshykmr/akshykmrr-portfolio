@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/akshykmrr-portfolio/static/css/main.d14c9d04.css",
-    "main.js": "/akshykmrr-portfolio/static/js/main.a27ed130.js",
+    "main.css": "/akshykmrr-portfolio/static/css/main.9b2deae3.css",
+    "main.js": "/akshykmrr-portfolio/static/js/main.5bdb2a7a.js",
     "static/media/portfolio6.png": "/akshykmrr-portfolio/static/media/portfolio6.51a20babf765012bcd22.png",
     "static/media/portfolio5.png": "/akshykmrr-portfolio/static/media/portfolio5.cc535c4fbc5d2360d3ae.png",
     "static/media/portfolio4.png": "/akshykmrr-portfolio/static/media/portfolio4.71534da20f5920ecd31a.png",
@@ -12,11 +12,11 @@
     "static/media/portfolio1.png": "/akshykmrr-portfolio/static/media/portfolio1.d86baf80e74bfcb0eee5.png",
     "static/media/portfolio2.png": "/akshykmrr-portfolio/static/media/portfolio2.3cd3a1ea9225e0ccb542.png",
     "index.html": "/akshykmrr-portfolio/index.html",
-    "main.d14c9d04.css.map": "/akshykmrr-portfolio/static/css/main.d14c9d04.css.map",
-    "main.a27ed130.js.map": "/akshykmrr-portfolio/static/js/main.a27ed130.js.map"
+    "main.9b2deae3.css.map": "/akshykmrr-portfolio/static/css/main.9b2deae3.css.map",
+    "main.5bdb2a7a.js.map": "/akshykmrr-portfolio/static/js/main.5bdb2a7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d14c9d04.css",
-    "static/js/main.a27ed130.js"
+    "static/css/main.9b2deae3.css",
+    "static/js/main.5bdb2a7a.js"
   ]
 }
