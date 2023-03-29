@@ -18,14 +18,14 @@ const data = [
   {
     id : 2,
     image : IMG2,
-    title : 'Text Analyzer - A fullstack Project',
+    title : 'Text Analyzer - A React Project',
     github : 'https://github.com/akshykmr/Text-Analyser' ,
     demo : 'https://textanalysingsite.netlify.app'
   },
   {
     id : 3,
     image : IMG3,
-    title : 'Portfolio Website - A fullstack Project',
+    title : 'Portfolio Website - A React Project',
     github : 'https://github.com/akshykmr/akshykmr-portfolio' ,
     demo : 'https://akshykmr.github.io/akshykmrr-portfolio'
   },
