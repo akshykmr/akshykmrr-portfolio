@@ -72,14 +72,7 @@
     text-align: justify;
     font-size: 0.7rem;
 }
-.boton{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2rem;
-    margin: 0 13rem;
-    border: 1px solid var(--color-primary);
-}
+
 
  /*=============== MEDIA QUERIES ( MEDIUM DEVICES ) ==========*/
 

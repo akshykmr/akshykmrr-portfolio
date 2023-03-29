@@ -43,7 +43,7 @@ I take great pride in my work, and always strive for personal satisfaction in th
 
 I'm excited to continue my career as a full stack developer and am always on the lookout for new opportunities to expand my skillset and contribute to the industry.
         </p>
-        <a href="#contact" className="boton">Let't Talk</a>
+        <a href="#contact" className="btn btn_primary">Let't Talk</a>
       </div>
     </div>
   </section>
