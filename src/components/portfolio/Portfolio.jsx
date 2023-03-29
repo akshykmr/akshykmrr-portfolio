@@ -18,7 +18,7 @@ const data = [
   {
     id : 2,
     image : IMG2,
-    title : 'Text Analyzer - A React Project',
+    title : 'Text Analyzer - A React Project ',
     github : 'https://github.com/akshykmr/Text-Analyser' ,
     demo : 'https://textanalysingsite.netlify.app'
   },
