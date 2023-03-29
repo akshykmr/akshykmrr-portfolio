@@ -22,7 +22,7 @@
 
 --container-width-lg:75%;
 --container-width-md:80%;
---container-width-ms:90%;
+--container-width-sm:90%;
 }
 
 html{
@@ -35,7 +35,13 @@ html{
 
 body{
     font-family: 'Poppins', sans-serif;
-    background:var(--color-bg);
+    /* background-color: #e5e5f7; #1f1f38 */
+    background-color: #1f1f38;
+
+    opacity: 1;
+    background-image: radial-gradient(circle at center center, #008cff, #e5e5f7), repeating-radial-gradient(circle at center center, #008cff, #008cff, 4px, transparent 8px, transparent 4px);
+    background-blend-mode: multiply;
+    /* background:var(--color-bg); */
     color: var(--color-white);
     line-height: 1.7;
     /* background-image: url(../src/assest/an.png); */
@@ -45,7 +51,7 @@ body{
 
 .container{
     width: var(--container-width-lg);
-    margin: 0, auto;
+    margin: 0 auto;
 }
 
 h1,h2,h3,h4,h5{
@@ -56,6 +62,8 @@ h1{
 }
 section{
     margin-top: 8rem;
+    /* height: 100vh; */
+    padding-top: 5.2rem;
 }
 section > h2, 
 section > h5 {
@@ -105,7 +113,7 @@ img {
 }
 
 
-/*=============== MEDIA QUERIES ( MEDIUM DEVICES ) ==========*/
+/* =============== MEDIA QUERIES ( MEDIUM DEVICES ) ========== */
 
 @media screen and (max-width: 1024px){
     .container{
@@ -121,11 +129,12 @@ img {
 
 @media screen and (max-width: 600px){
     .container{
-        width: var(--container-width-ms);
+        width: var(--container-width-sm);
+        margin-top: 0;
     }
 
     section >H2 {
         margin-bottom: 2rem;
     };
-}
+} 
 
