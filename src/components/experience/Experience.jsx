@@ -36,18 +36,19 @@ const experience = () => {
             <article className="experience_details">
               <TiCss3 className="experience_details_icon"/>
               <div><h4>CSS</h4>
-              <small className="text-light">Intermediate</small>
+              <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <TbBrandJavascript className="experience_details_icon"/>
              <div> <h4>Java Script</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <TbBrandBootstrap className="experience_details_icon"/>
               <div><h4>Bootstrap</h4>
+              <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
@@ -59,7 +60,7 @@ const experience = () => {
             <article className="experience_details">
               <SiTailwindcss className="experience_details_icon"/>
               <div><h4>Tailwind CSS</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
               </div>
             </article>
         </div>
@@ -73,7 +74,7 @@ const experience = () => {
             <article className="experience_details">
               <IoLogoNodejs className="experience_details_icon"/>
               <div><h4>Node JS</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
@@ -86,19 +87,19 @@ const experience = () => {
             <article className="experience_details">
               <TbBrandPython className="experience_details_icon"/>
               <div><h4>Python</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <DiMsqlServer className="experience_details_icon"/>
              <div> <h4>MySql</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience_details">
               <FaPhp className="experience_details_icon"/>
              <div> <h4>PHP</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
               </div>
             </article>
         </div>
